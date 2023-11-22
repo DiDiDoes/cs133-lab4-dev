@@ -49,11 +49,11 @@ typedef float compute_t;
 
 // These code are the actual code used for for hardware generation.
 
-typedef char input_t;
-typedef char weight_t;
-typedef char bias_t;
-typedef char compute_t;
-typedef char output_t;
+typedef float input_t;
+typedef float weight_t;
+typedef float bias_t;
+typedef float compute_t;
+typedef float output_t;
 
 #endif
 
